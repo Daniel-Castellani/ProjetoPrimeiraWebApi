@@ -1,0 +1,17 @@
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\bin\Debug\net6.0\PrimeiraWebApi.Infra.deps.json
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\bin\Debug\net6.0\PrimeiraWebApi.Infra.runtimeconfig.json
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\bin\Debug\net6.0\PrimeiraWebApi.Infra.dll
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\bin\Debug\net6.0\PrimeiraWebApi.Infra.pdb
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\bin\Debug\net6.0\PrimeiraWebApi.Domain.dll
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\bin\Debug\net6.0\PrimeiraWebApi.Domain.pdb
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\PrimeiraWebApi.Infra.csproj.AssemblyReference.cache
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\PrimeiraWebApi.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\PrimeiraWebApi.Infra.AssemblyInfoInputs.cache
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\PrimeiraWebApi.Infra.AssemblyInfo.cs
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\PrimeiraWebApi.Infra.csproj.CoreCompileInputs.cache
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\PrimeiraWebApi.Infra.csproj.CopyComplete
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\PrimeiraWebApi.Infra.dll
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\refint\PrimeiraWebApi.Infra.dll
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\PrimeiraWebApi.Infra.pdb
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\PrimeiraWebApi.Infra.genruntimeconfig.cache
+C:\Users\dani_\OneDrive\Área de Trabalho\MinhaPrimeiraWebApi\PrimeiraWebApi.Infra\obj\Debug\net6.0\ref\PrimeiraWebApi.Infra.dll
